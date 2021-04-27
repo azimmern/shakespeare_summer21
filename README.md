@@ -12,7 +12,7 @@ Arnaud Zimmern<br>
 **Location**: Online<br>
 **E-mail**: azimmern (d0t) nd.edu<br>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
-<!-- I'll change this to feature a Google Calendar with set times to meet
+<!-- I'll change this to feature a Google Calendar with set times to meet -->
 
 ## Syllabus
 
