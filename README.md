@@ -3,17 +3,16 @@ layout: default
 permalink: /
 ---
 
-# PR Pubs :: Summer 2016
-This is the course resource site for PR Publications, a course at the University of Oklahoma, taught in the Gaylord College of Journalism and Mass Communications.
+# Shakespeare: An Introduction through Comedy :: Summer 2021
+This is the course resource site for Shakespeare: An Intro through Comedy, a course at the University of Notre Dame, taught through the Office of Digital Learning.
 
 **Instructor**
 
-Adam Croom<br>
-**Location**: Old Science Hall, Room 224<br>
-**Phone**: (405) 325-2960<br>
-**E-mail**: a.croom (d0t) ou.edu<br>
-**Twitter**: <a href="http://twitter.com/acroom" target="blank">@acroom</a><br>
+Arnaud Zimmern<br>
+**Location**: Online<br>
+**E-mail**: azimmern (d0t) nd.edu<br>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
+<!-- I'll change this to feature a Google Calendar with set times to meet
 
 ## Syllabus
 
