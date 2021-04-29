@@ -10,7 +10,7 @@ This is the course resource site for ENGL20215, a course taught through the Notr
 
 Dr. Arnaud Zimmern<br>
 **Location**: Online<br>
-**E-mail**: azimmern (d0t) nd.edu<br>
+**E-mail**: azimmern@nd.edu<br>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
 <!-- I'll change this to feature a Google Calendar with set times to meet -->
 
@@ -43,7 +43,7 @@ Most of our class meetings will be held as a mixture of lecture and seminar-styl
 We will use Slack to share questions, posts, thoughts and to communicate as a group outside of synchronous class time. We will NOT be using Sakai.
 
 ### Accommodations
-Any student with University-approved accommodations should speak with me within the first ten days of class to discuss their individual situation. 
+Any student with University-approved accommodations should speak with me within the first ten days of class to discuss their individual situation. <br>
 
 ## Texts:
 
