@@ -15,7 +15,7 @@ Dr. Arnaud Zimmern<br>
 <!-- I'll change this to feature a Google Calendar with set times to meet -->
 
 
-### Course Description
+## Course Description
 
 Welcome! Our goal is to create a stimulating learning experience as you encounter a selection of Shakespeare’s most important plays. By the end of the class, you should be able to read, watch, understand, and enjoy on a deeper level any of Shakespeare’s dramatic works, equipped with habits of mind and big questions that will be the focus of our class. One of our key goals will be to understand Shakespeare as a comedic and comic author whose works continue to solicit our laughter and compel our attention to the real, sometimes dangerous, always transformative impact of comedy in society.<br> 
 
@@ -45,9 +45,9 @@ We will use Slack to share questions, posts, thoughts and to communicate as a gr
 ### Accommodations
 Any student with University-approved accommodations should speak with me within the first ten days of class to discuss their individual situation. 
 
-### Texts:
+## Texts:
 
-## Books
+### Books
 All assigned articles will be sent via email.<br>
 
 You must have a quality edition of the play which you can annotate/highlight and which is 100% yours (either print or digital is fine). I recommend the Arden 3 editions linked to below, The cost of which should be around $40 in total:<br>
@@ -65,7 +65,7 @@ You must have a quality edition of the play which you can annotate/highlight and
 Alternatively, you may wish to purchase a printed collected works edition of Shakespeare: it’s a great way to keep Shakespeare around in your life long-term and to add pizzaz to your living room. I recommend the Pelican Shakespeare, Riverside Shakespeare, or the Norton Shakespeare. <br>
 Books may be sourced from your choice of providers, including but not limited to the campus bookstore.
 
-## Video
+### Video
  We will watch three filmed stage productions and three film adaptations.<br> 
 
  The stage productions are linked below through [Drama Online](https://www-dramaonlinelibrary-com.proxy.library.nd.edu/), which you can always access through [Hesburgh Library’s databases](https://library.nd.edu/databases?letter=d).<br>
@@ -84,10 +84,10 @@ _Digital Archives, Content Repositories, and information_
 [Shakespeare’s Globe: GlobePlayer.tv](https://globeplayer.tv/)<br>
 [MIT Global Shakespeares](http://globalshakespeares.mit.edu/#)
 
-### Statement on Academic Honesty
+## Statement on Academic Honesty
 Please review the applicable policies of the University Honor Code at honorcode.nd.edu. By enrolling in this class, you agree to the principles and regulations as outlined therein. If you have any questions about your use of sources or materials, especially those accessed electronically, please speak with me or with librarians in advance. Plagiarism, as you know, is an offense to your own intelligence; let us help you avoid it and grow your creative and intellectual strengths. 
 
-### Assignments / Grading
+## Assignments / Grading
 
 This course has a mix of Design projects assignments and weekly assignments. Weekly assignments will included course readings, watching tutorial videos, writing blog posts, and comment on other student's blogs. There will be eight (8) quizzes throughout the summer semester and they are worth 20 points. This one is fairly straight forward: you do what is asked and you will complete an online quiz about those assignments. You will self assess how much of the work you did each week through the unit quiz.
 
