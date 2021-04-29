@@ -29,10 +29,10 @@ Finally, we will apply those analytical and interpretive habits in short written
 ### Course Objectives
 
 By the end of this class, provided you put in the essential fuel of active engagement, you will achieve the following learning goals:<br>
-Enhance your analytical and interpretive ability to read, watch, and make sense of Shakespeare’s plays without depending on editorial notes;<br>
-Develop a rich and nuanced understanding of Shakespeare as a cultural phenomenon and his works as a continuing source for literary transformation across cultures;<br>
-Understand each of the three plays and encounter the serious intellectual challenges that comedy asks of us;<br>
-Apply the methods and skills you’ve developed to read and understand complex literature more generally;<br>
+* Enhance your analytical and interpretive ability to read, watch, and make sense of Shakespeare’s plays without depending on editorial notes;<br>
+* Develop a rich and nuanced understanding of Shakespeare as a cultural phenomenon and his works as a continuing source for literary transformation across cultures;<br>
+* Understand each of the three plays and encounter the serious intellectual challenges that comedy asks of us;<br>
+* Apply the methods and skills you’ve developed to read and understand complex literature more generally;<br>
 Ideally, you will come to love Shakespeare and read his brilliant, powerful plays for pleasure as well as illumination!
 
 
