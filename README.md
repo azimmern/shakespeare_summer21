@@ -3,37 +3,89 @@ layout: default
 permalink: /
 ---
 
-# Shakespeare: An Introduction through Comedy :: Summer 2021
-This is the course resource site for Shakespeare: An Intro through Comedy, a course at the University of Notre Dame, taught through the Office of Digital Learning.
+# Shakespeare: An Introduction through Comedy
+This is the course resource site for ENGL20215, a course taught through the Notre Dame Office of Digital Learning.
 
 **Instructor**
 
-Arnaud Zimmern<br>
+Dr. Arnaud Zimmern<br>
 **Location**: Online<br>
 **E-mail**: azimmern (d0t) nd.edu<br>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
 <!-- I'll change this to feature a Google Calendar with set times to meet -->
 
-## Syllabus
-
-Below is the formal syllabus explaining what the course exactly is but these tend to get a little jargony at times which won't be incredibly helpful if there is your first introduction into the course. The short of it is this: This course is _outcomes_ centric and thus you will learn by _doing_. While the first part of the course is focused on understanding design techniques and terminology and is a little more content driven, we will be simply applying this foundational knowledge through different use cases throughout the rest of the semester. The real work are the assignments in which you'll be creating tangible publication pieces. You'll then be putting these works onto your blog where you'll be expected to reflect on your work and give a narrative for your creative process. In the end, you'll have a robust portfolio (so to speak) which won't only be a collection of your final work which potential employers can see, but a collection of your thoughts, struggles, and victories throughout this 8-week experience. In essence, you'll be donning a potentially new hat of "Visual Designer" throughout this exploration. You'll also be a "Digital Storyteller." Terms like "digital," "visual," or "creative" can seem a little scary to some, but that's ok right now. Like a good ride at a theme park, a little bit of nervousness makes the ride much more memorable on the back end. Note that most of you are coming in at the same level: novice. This means you all are your biggest allies. I _want _you to be successful in this course and to do this you will see that I've set up ways in which you can lean on and learn from each other's experiences throughout the course.
 
 ### Course Description
 
-Institutional and industrial publications as an important means of internal and external communications with special emphasis on design, layout and content. Laboratory.<br>
-**Prerequisites**: JMC 1013, 2033, 3413, and 3423.
+Welcome! Our goal is to create a stimulating learning experience as you encounter a selection of Shakespeare’s most important plays. By the end of the class, you should be able to read, watch, understand, and enjoy on a deeper level any of Shakespeare’s dramatic works, equipped with habits of mind and big questions that will be the focus of our class. One of our key goals will be to understand Shakespeare as a comedic and comic author whose works continue to solicit our laughter and compel our attention to the real, sometimes dangerous, always transformative impact of comedy in society.<br> 
+
+We will begin with Shakespeare’s legacy. Why are Shakespeare’s works a go-to literary text for today’s comedies, spin-offs, ads, and spoofs, and how does his comedy provide relief while putting things in relief? Why, more broadly, are Shakespeare’s comedies a global literary property, constantly reimagined, translated, adapted, appropriated across languages, cultures, and media forms?<br>
+
+With a working sense of the Shakespeare phenomenon, we will then dive deeply into three key plays: _Much Ado About Nothing_, _A Midsummer Night’s Dream_, and _Othello_. We will also read a recent, important response play to _Othello_ entitled _American Moor_ by Keith Hamilton Cobb. As we read these plays, we will develop durable habits of analytical close reading and humanistic interpretation. In the process, we will develop a thorough understanding of each play as a complex, nuanced and intellectually challenging work of art that tackles big questions, e.g. the relationship between love and law, mirth and order; the darker connection between laughter and corruption; as well as the comic side of the supernatural and the coincidental. Our attention will also be on classic themes of Shakespeare’s corpus and anthropology: class, gender, race, age, violence, and forgiveness.<br>
+
+Finally, we will apply those analytical and interpretive habits in short written projects, several of which will ask you to compose alternative scenes and respond to Shakespeare’s legacy.
+
 
 ### Course Objectives
 
-Think **critically, creatively and independently**. Recognize how public relations publications differ from other publications in purpose, publics, funding and design. Apply **graphic design concepts** and apply appropriate visual communication theories in the effective use and presentation of images and information. Apply **web design concepts** and apply web communication techniques and theories in the effective use and presentation of images and information online. **Conduct research**, evaluate information and use that knowledge to select appropriate communication channel. Design for a target audience. Distinguish and demonstrate the **use a variety of publication production techniques** and options.
+By the end of this class, provided you put in the essential fuel of active engagement, you will achieve the following learning goals:<br>
+Enhance your analytical and interpretive ability to read, watch, and make sense of Shakespeare’s plays without depending on editorial notes;<br>
+Develop a rich and nuanced understanding of Shakespeare as a cultural phenomenon and his works as a continuing source for literary transformation across cultures;<br>
+Understand each of the three plays and encounter the serious intellectual challenges that comedy asks of us;<br>
+Apply the methods and skills you’ve developed to read and understand complex literature more generally;<br>
+Ideally, you will come to love Shakespeare and read his brilliant, powerful plays for pleasure as well as illumination!
 
-### Course Outcomes
 
-Students will launch and maintain a blog as well as comment on the blogs of their peers. Students will build a foundational knowledge of the landscape of visual communication technologies. Students will design a business card and letterhead for a brand. Students will design a direct mail piece for multiple, specific publics. Students will design a newsletter for an entity. Students will develop a personal portfolio website.
+### Format & Technology
 
-### Course Rationale
+Most of our class meetings will be held as a mixture of lecture and seminar-style discussion online through Zoom. Occasionally, we will break into smaller sections with breakout rooms and once a week we will take time for a short “baseline” or plot-comprehension test. For a lecture-style class like ours, however, compelling research suggests that taking notes on laptops inhibits your learning by encouraging you to transcribe what you hear verbatim rather than listen, digest, engage, and participate actively. I recommend [this article on laptops in lecture classes](https://www.brookings.edu/research/for-better-learning-in-college-lectures-lay-down-the-laptop-and-pick-up-a-pen/?utm_medium=social&utm_source=twitter&utm_campaign=es) and encourage you to reflect on its findings as you decide how and what kinds of notes you wish to take.<br>
 
-This course strives to train students to recognize and apply good publication design techniques in a public relations setting. In addition, students will learn the importance of structuring visual communications for the web. The major goal of the course is to give students the ability to translate a concept of visual communication into an actual publication. Other goals include practice with computer graphics, knowledge of publication techniques and options in print and online, publication production skills and a knowledge of how to work with designers, graphic artists, publication specialists, photographers and commercial printers and web developers to convey their messages to target audiences.
+We will use Slack to share questions, posts, thoughts and to communicate as a group outside of synchronous class time. We will NOT be using Sakai.
+
+### Accommodations
+Any student with University-approved accommodations should speak with me within the first ten days of class to discuss their individual situation. 
+
+### Texts:
+
+## Books
+All assigned articles will be sent via email.<br>
+
+You must have a quality edition of the play which you can annotate/highlight and which is 100% yours (either print or digital is fine). I recommend the Arden 3 editions linked to below, The cost of which should be around $40 in total:<br>
+
+[_Much Ado About Nothing_ Arden 3](https://www.amazon.com/Much-about-Nothing-MUCH-NOTHING/dp/B001TJSXV4/ref=sr_1_4?dchild=1&keywords=much+ado+about+nothing+arden&qid=1608222221&sr=8-4), edited by Claire McEachern<br>
+
+[_A Midsummer Night’s Dream_ Arden 3](https://www.alibris.com/A-Midsummer-Nights-Dream-Third-Series-William-Shakespeare/book/38645593?matches=26), edited by Sukanta Chaudhuri<br>
+
+[_Othello_ Arden 3](https://www.amazon.com/Othello-Revised-Arden-Shakespeare-Third/dp/1472571762/ref=sr_1_1?dchild=1&keywords=othello+arden+third+series&qid=1608221914&sr=8-1), edited by Ayanna Thompson<br>
+
+[_American Moor_](https://www.amazon.com/American-Modern-Plays-Keith-Hamilton/dp/1350165301/ref=sr_1_1?dchild=1&keywords=american+moor+keith+hamilton+cobb&qid=1608831210&sr=8-1), by Keith Hamilton Cobb<br>
+
+**DO NOT use a free web-based edition as your reading/study edition, as these are seldom rigorously produced. The notes, introduction, and apparatus of print editions like the Arden, Folger, or Penguin series are there to guide your reading and are a crucial part of your learning experience, even if our ultimate goal is to get you to challenge and grow independent from those crutches.<br>
+
+Alternatively, you may wish to purchase a printed collected works edition of Shakespeare: it’s a great way to keep Shakespeare around in your life long-term and to add pizzaz to your living room. I recommend the Pelican Shakespeare, Riverside Shakespeare, or the Norton Shakespeare. <br>
+Books may be sourced from your choice of providers, including but not limited to the campus bookstore.
+
+## Video
+ We will watch three filmed stage productions and three film adaptations.<br> 
+
+ The stage productions are linked below through [Drama Online](https://www-dramaonlinelibrary-com.proxy.library.nd.edu/), which you can always access through [Hesburgh Library’s databases](https://library.nd.edu/databases?letter=d).<br>
+
+ The films, wherever possible, were digitized by the library and should not be used for any other purposes than your education. You may also find them or purchase them on Netflix or another streaming service if that is more convenient. It is your responsibility to be sure you have screened the assigned films _in advance_ of our discussions.
+
+ ### Other Recommended Resources
+_Books_
+Margreta De Grazia & Stanley Wells, eds. _The New Cambridge Companion to Shakespeare_ (Cambridge Univ. Press, 2011).<br>
+Marjorie Garber, _Shakespeare After All_ (Random House, 2006).<br>
+David and Ben Crystal, _Shakespeare's Words: A Glossary and Language Companion_ (Penguin Books, 2004)<br>
+_Digital Archives, Content Repositories, and information_
+[The Folger Shakespeare Library](www.folger.edu)<br>
+[Shakespeare at Notre Dame](http:http://shakespeare.nd.edu/news/)<br>
+[Royal Shakespeare Company](www.rsc.org.uk)<br>
+[Shakespeare’s Globe: GlobePlayer.tv](https://globeplayer.tv/)<br>
+[MIT Global Shakespeares](http://globalshakespeares.mit.edu/#)
+
+### Statement on Academic Honesty
+Please review the applicable policies of the University Honor Code at honorcode.nd.edu. By enrolling in this class, you agree to the principles and regulations as outlined therein. If you have any questions about your use of sources or materials, especially those accessed electronically, please speak with me or with librarians in advance. Plagiarism, as you know, is an offense to your own intelligence; let us help you avoid it and grow your creative and intellectual strengths. 
 
 ### Assignments / Grading
 
@@ -50,12 +102,13 @@ Direct Mailer - 70 points<br>
 Social Media - 70 points<br>
 Newsletter - 70 points
 
-**Final Project** (12% of final grade)
-Summary of Learning - 60 points **TOTAL POINTS POSSIBLE: 500**
+**Final Project** 
+
+**TOTAL POINTS POSSIBLE: 500**
 
 ### Grading Scale
 
-A: 450 - 500 points B: 400 - 449 points C: 350 - 399 points D: 300 - 349 points F: 0 - 200 points
+
 
 ### Toolbox
 
